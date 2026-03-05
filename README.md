@@ -42,4 +42,3 @@ conda activate sc-tutorial-env
 ```
 
 ---
-*Attribution: The core code and tutorials in this pipeline are adapted from the [Theis Lab Single-Cell Best Practices](https://github.com/theislab/single-cell-best-practices) open-source repository and the accompanying Nature Reviews Genetics publication [Heumos et al., 2023].*
