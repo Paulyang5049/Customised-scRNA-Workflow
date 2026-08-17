@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+.ipynb_checkpoints/
+.venv/
+results/
+figures/
+reports/
+models/
+*.h5ad
+*.h5mu
+*.loom
+
